@@ -1,0 +1,26 @@
+* {
+    margin:0 auto;
+    padding:0;
+}
+
+
+header {
+    background-color: yellow;
+}
+
+#first {
+    background-color: red
+}
+
+#second {
+    background-color: brown;
+}
+
+
+main {
+    background-color: blue;
+}
+
+footer {
+    background-color: pink;
+}
